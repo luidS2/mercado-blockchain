@@ -79,7 +79,7 @@ class Main extends Component {
           <thead>
             <tr>
               <th scope="col">#</th>
-              <th scope="col">Venda</th>              
+              <th scope="col">Bloquear Venda</th>              
               <th scope="col">Nome</th>
               <th scope="col">Preço</th>
               <th scope="col">Proprietário</th>
